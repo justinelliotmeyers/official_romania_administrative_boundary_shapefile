@@ -1,0 +1,6 @@
+source:
+National Agency for Cadastre and Land Registration (ANCPI)
+http://geoportal.ancpi.ro/
+
+license:
+http://geoportal.ancpi.ro/geoportal/catalog/content/disclaimer.page
